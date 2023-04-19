@@ -11,4 +11,4 @@ print("View: ", yt.views)
 yd = yt.streams.get_highest_resolution()
 
 # ADD FOLDER HERE
-yd.download('./YTfolder')
+yd.download("/Users/alexa/Videos/yt_downloads")
